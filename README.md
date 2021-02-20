@@ -13,7 +13,7 @@ A recipe app, consisting of an API (including validation and searching) built wi
 2. Change into root directory: `cd recipe`
 3. Ensure theat MongoDB is running
 4. Run `npm install`
-5. Start the API server with:`npm run start or nest start`
+5. Start the API server with:`npm run start` or `nest start`
 6. Change into the `frontend` directory: `cd frontend`
 7. Run `npm install`
 8. Start the front-end app: `npm run serve`
